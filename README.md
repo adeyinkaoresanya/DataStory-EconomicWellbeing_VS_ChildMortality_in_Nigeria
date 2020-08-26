@@ -1,5 +1,5 @@
 
-### Creating compelling data stories with animation: A use case of how economic wellbeing affects child mortality rate in Nigeria
+# Creating compelling data stories with animation: A use case of how economic wellbeing affects child mortality rate in Nigeria
 
 Communicating the results of a data science project is an important step in the data science workflow. One proven strategy for effective communication is visualization and storytelling. 
 
